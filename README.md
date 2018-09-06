@@ -44,4 +44,7 @@ To install python3.6 you can quicky do that by typing:
 sudo apt-get install python3.6
 ```
 
+# Setup/Installation Reqiurements.
+
+**To work With this cli {follow the below instructions for set up.}**
 
