@@ -46,7 +46,7 @@ sudo apt-get install python3.6
 
 # Setup/Installation Reqiurements.
 
-**To work With this Django-shell-script {follow the below instructions for set up.}**
+**{follow the below instructions for set up.}**
 
 1. You will need Internet connection.
 
@@ -65,4 +65,16 @@ Link:-> ```https://github.com/zecollokaris/Django-shell-script```
 7. get into project folder (cd into project). 
 
 # HOW TO USE
+
+**To work With this Django-shell-script**
+
+1. Make sure your inside folder containing script.
+
+2. Create Django folder structure
+
+    ```
+    source newDjango.sh (PROJECTNAME) (APPNAME)
+    ```
+
+3. From there the it will prompt you to create a PostgreSQL Database an object-relational database management system.
 
