@@ -34,4 +34,14 @@ Link:->  ```https://github.com/zecollokaris/Django-shell-script```
 python3.6 -V
 ```
 
+**Installing Python3.6**
+
+To install python3.6 you can quicky do that by typing:
+
+
+
+```
+sudo apt-get install python3.6
+```
+
 
