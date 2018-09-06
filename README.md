@@ -1,34 +1,8 @@
-# django-script-shell
-## By **Wesley Mutwiri**
+# DESCRIPTION 
 
-## Live Demo
+This is a shell script that that allows execution of Django a python based framework.
 
-coming soon
-## Description
+A shell script is a computer program designed to be run by the Unix shell, a command-line interpreter. The various dialects of shell scripts are considered to be scripting languages. Typical operations performed by shell scripts include file manipulation, program execution, and printing text. A script which sets up the environment, runs the program, and does any necessary cleanup, logging, etc. is called a wrapper.
 
-This is an application that enables users to get in the know on what's around their neighbourhood. The user can also advertise their work on the website such as businesses and also get information concerning police officers and ambulances in the area via the application. The users can also create their own neighbourhoods where they will become administrators of the neighbourhood . The users can also post stories on the website including images .
+Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel.
 
-## Setup and Installation Requirements
-``` bash
-# Open folder in order to host your script shell
-$ 
-# clone into repository 
-$ git clone https://github.com/wesleymutwiri/django-script-shell.git
-# enter folder containing script shell 
-$ cd django-script-shell/
-
-# run the application 
-$ Source newDjango.sh <name of django project> <name of django app>
-```
-
-## Known bugs
-There are currently no known bugs experienced on the website but feedback on bugs experienced during use of the website will be highly appreciated. The only reason that the website may fail to load is if the Internet connection is slow or disconnected which will require you to troubleshoot your Internet connection. Thankyou in advance for your support.
-
-## Technologies used
-* Python3.6
-
-## Support and contact details
-Contact me on my github account
-<https://github.com/wesleymutwiri>
-
-copyright (c) {2018} {Wesley Mutwiri}
