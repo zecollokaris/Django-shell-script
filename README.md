@@ -64,3 +64,5 @@ Link:-> ```https://github.com/zecollokaris/Django-shell-script```
 
 7. get into project folder (cd into project). 
 
+# HOW TO USE
+
