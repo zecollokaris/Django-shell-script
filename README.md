@@ -8,3 +8,8 @@ Django is a high-level Python Web framework that encourages rapid development an
 
 
 # Prerequisites.
+
+To work with the script you have to clone Django-shell-script on my github repo. 
+
+Link:->  ```https://github.com/zecollokaris/Django-shell-script```
+
