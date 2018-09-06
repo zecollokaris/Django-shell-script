@@ -9,7 +9,21 @@ Django is a **high-level Python Web framework** that encourages rapid developmen
 
 # Prerequisites.
 
-To work with the script you have to clone Django-shell-script on my github repo. 
+* You need to have nano text editor installed. you can find out whether you have it installed by typing nano --version in your terminal. For most linux distributions, it is installed by default. 
+
+* To work with the script you have to clone Django-shell-script on my github repo. 
 
 Link:->  ```https://github.com/zecollokaris/Django-shell-script```
+
+**Installing Nano Text Editor.**
+
+-However, if you don't have it installed, you can quicky do that by typing:
+
+
+```
+ sudo apt-get install nano
+```
+
+
+
 
