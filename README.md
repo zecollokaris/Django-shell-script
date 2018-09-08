@@ -57,6 +57,8 @@ It simply creates files and adds the preset standard code thats will not change 
 
 10. Creates **requirements.txt**
 
+* You are now ready to code. 
+
 
 
 # Prerequisites.
@@ -116,18 +118,20 @@ Link:-> ```https://github.com/zecollokaris/Django-shell-script```
 
 7. get into project folder (cd into project). 
 
+
+
 # HOW TO USE
 
 **To work With this Django-shell-script**
 
-1. Make sure your inside folder containing script.
+**1. Make sure your inside folder containing script.**
 
-2. Create Django folder structure
+2. Create **Django folder structure**
 
     ```
     source newDjango.sh (PROJECTNAME) (APPNAME)
     ```
 
-3. From there the it will prompt you to create a PostgreSQL Database an object-relational database management system.
+3. From there the it will **prompt you to create a PostgreSQL Database** an object-relational database management system.
 
-4. You Django is ready HAPPY CODING :-)
+4. You Django is ready **HAPPY CODING :-)**
