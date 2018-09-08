@@ -102,25 +102,25 @@ sudo apt-get install python3.6
 
 **{follow the below instructions for set up.}**
 
-1. You will need Internet connection.
+1. You will need **Internet connection.**
 
 2. You will also need a Webpage URL to load in URL's:
 
-3. To get to this CLI fist you need to get to the Flask-CLI repository. 
+3. To **get to use Django-shell-script** fist you need to get to the **Django-shell-script repository.** 
 
 Link:-> ```https://github.com/zecollokaris/Django-shell-script```
 
-4. From there you can access the CLI.
+4. From there you can access Django-shell-script.
 
 5. **Clone** the project.
 
-6. Once you done with cloning and project is on your device.
+6. **Once you done with cloning** and project is on your device.
 
-7. get into project folder (cd into project). 
+7. **get into project folder** (cd into project). 
 
 
 
-# HOW TO USE
+**# HOW TO USE.**
 
 **To work With this Django-shell-script**
 
