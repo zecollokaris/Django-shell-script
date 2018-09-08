@@ -6,6 +6,34 @@ A shell script is a **computer program** designed to be run by the Unix shell, a
 
 Django is a **high-level Python Web framework** that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel.
 
+# WHAT THIS DJANGO-SHELL-SCRIPT DOES FOR YOU.
+
+1. Creates a folder for you.
+
+2. Initializes Empty Git Repository.
+
+3. Installs Django 2.0.7 (Can be updated to latest version).
+
+4. Installs Django-bootstrap4.
+
+5. Installs pillow for Image Integration.
+
+6. Installs dj-database-url.
+
+7. Installs gunicorn.
+
+8. Installs psycopg2.
+
+9. Installs whitenoise.
+
+10. Installs python-decouple.
+
+11. Installs wheel
+
+**Creates Files**
+
+1. 
+
 
 # Prerequisites.
 
@@ -78,3 +106,4 @@ Link:-> ```https://github.com/zecollokaris/Django-shell-script```
 
 3. From there the it will prompt you to create a PostgreSQL Database an object-relational database management system.
 
+4. You Django is ready HAPPY CODING :-)
