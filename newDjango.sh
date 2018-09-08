@@ -63,9 +63,10 @@ migrations/
 EOF
 
 # Installing dependencies
-pip install django==1.11.5
+pip install Django==2.0.7
 pip install django-bootstrap4 pillow
 pip install dj-database-url gunicorn psycopg2 whitenoise python-decouple
+pip install wheel
 
 django-admin startproject ${1} .
 django-admin startapp ${2}
