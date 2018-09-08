@@ -8,9 +8,9 @@ Django is a **high-level Python Web framework** that encourages rapid developmen
 
 # WHAT THIS DJANGO-SHELL-SCRIPT DOES FOR YOU.
 
-1. Creates a folder for you.
+1. Creates a **folder** for you.
 
-2. Initializes Empty Git Repository.
+2. Initializes Empty **Git Repository**.
 
 3. Installs Django 2.0.7 (Can be updated to latest version).
 
@@ -30,9 +30,32 @@ Django is a **high-level Python Web framework** that encourages rapid developmen
 
 11. Installs wheel
 
-**Creates Files**
 
-1. 
+**CREATED FILES**
+The script also helps in creating some files this making it easy for you code as you just write your code.
+
+It simply creates files and adds the preset standard code thats will not change in code.
+
+1. Creates static file together with css file
+
+2. Creates templates
+
+3. Creates base.html and adds it to the templates
+
+4. Creates index.html, links it to base.html using {% extends ' '%} then adds it to templates folder.
+
+2. Creates virtual environment.
+
+3. Creates .env file and sets DEBUG = True
+
+4. Creates .gitignore and adds (virtual/ | *.pyc | .env | migrations/ ) to .gitignore.
+
+5. Creates Procfile
+
+6. Creates README.md
+
+7. Creates requirements.txt
+
 
 
 # Prerequisites.
