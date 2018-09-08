@@ -120,11 +120,11 @@ Link:-> ```https://github.com/zecollokaris/Django-shell-script```
 
 
 
-**# HOW TO USE.**
+# **HOW TO USE.**
 
 **To work With this Django-shell-script**
 
-**1. Make sure your inside folder containing script.**
+1. **Make sure your inside folder containing script.**
 
 2. Create **Django folder structure**
 
@@ -135,3 +135,15 @@ Link:-> ```https://github.com/zecollokaris/Django-shell-script```
 3. From there the it will **prompt you to create a PostgreSQL Database** an object-relational database management system.
 
 4. You Django is ready **HAPPY CODING :-)**
+
+---
+
+## License
+
+The app is licensed by MIT.
+
+MIT (c) 2018 - 2020 
+
+Feel FREE to contribute to make the **script** better for others.
+
+---
