@@ -147,4 +147,3 @@ MIT (c) 2018 - 2020
 Feel FREE to contribute to make the **script** better for others.
 
 ---
->>>>>>> a37ee31e159600b76dfbc4e2938402e5cf7038b6
