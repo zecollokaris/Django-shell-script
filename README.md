@@ -8,6 +8,8 @@ Django is a **high-level Python Web framework** that encourages rapid developmen
 
 # **WHAT THIS DJANGO-SHELL-SCRIPT DOES FOR YOU.**
 
+**{Please go through what this shell-script does for you. It will help you avoid bugs in your code. In case you use a technology that might cause failure of your code to run}**
+
 1. Creates a **folder** for you.
 
 2. Initializes Empty **Git Repository**.
