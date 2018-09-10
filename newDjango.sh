@@ -15,17 +15,31 @@ touch .gitignore
 touch README.md
 cat >> README.md << EOF
 # ${1}
-## By **Collins Kariuki**
 
-## Description
+# Description
 
-## Known bugs
-There are currently no known bugs experienced on the website but feedback on bugs experienced during use of the website will be highly appreciated. The only reason that the website may fail to load is if the Internet connection is slow or disconnected which will require you to troubleshoot your Internet connection. Thankyou in advance for your support.
+# Prerequisites
 
-## Support and contact details
-Contact me on my github account
-<https://github.com/zecollokaris>
->>>>>>> ae9a4247ad9684651c24b739d40be7e1379f6aab
+# Setup/Installation Reqiurements.
+**{follow the below instructions for set up.}**
+
+# Technologies Used
+
+# Support and Contact
+
+-Mobile number: (+254) 798731203
+
+-Email Address: collo.kariss@gmail.com
+
+-github-username: zecollokaris
+
+## License
+
+The app is licensed by MIT.
+
+Collins Kariuki - MIT (c)2018 LICENSE
+
+
 
 EOF
 mkdir static
