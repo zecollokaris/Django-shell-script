@@ -59,10 +59,10 @@ migrations/
 EOF
 
 # Installing dependencies
-pip3 install Django==2.0.7
-pip3 install django-bootstrap4 pillow
-pip3 install dj-database-url gunicorn psycopg2 whitenoise python-decouple
-pip3 install wheel
+pip install Django==2.0.7
+pip install django-bootstrap4 pillow
+pip install dj-database-url gunicorn psycopg2 whitenoise python-decouple
+pip install wheel
 
 django-admin startproject ${1} .
 django-admin startapp ${2}
@@ -123,7 +123,7 @@ EOF
 cd ../../../
 
 # Getting requirements
-pip3 freeze > requirements.txt
+pip freeze > requirements.txt
 
 # Creating procfile
 touch Procfile
